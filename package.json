@@ -1,7 +1,7 @@
 {
   "name": "chatroom-metanat",
   "version": "1.0.0",
-  "description": "چت روم گروهی",
+  "description": "چت روم گروهی — متانت",
   "main": "chatroom-server.js",
   "scripts": {
     "start": "node chatroom-server.js"
@@ -9,5 +9,7 @@
   "engines": {
     "node": ">=18.0.0"
   },
+  "keywords": ["chat", "realtime", "websocket"],
+  "author": "student",
   "license": "MIT"
 }
